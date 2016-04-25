@@ -611,7 +611,7 @@ header, footer {
 
 header {
   background-position: 30px 20px, 50% 50%;
-  background-image: url(../img/logo.svg), url(../img/header1.jpg);
+  background-image: url(../img/logo.svg), url(../img/header1.jpeg);
   padding-bottom: 50px; }
   header .logo {
     height: 50px;
