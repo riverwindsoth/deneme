@@ -681,7 +681,8 @@ footer {
         footer .lockup .content-wrap a:hover {
           color: rgba(0, 0, 0, 0.7); }
 footer .hr {
-    border: silver solid 10px;
+    border: 10px;
+    border-color: black;
 }
 
 .face-lockup {
