@@ -661,6 +661,7 @@ header {
 footer {
   background-image: url(../img/logo.png);
   background-color: silver;
+  border-top: 2px solid #79b291;
 }
   footer .lockup {
     padding: 50px 30px; }
@@ -732,7 +733,7 @@ footer {
     background: #e5eaee;
     border-radius: 50%; }
     .face-lockup [class^="icon-"] path {
-      fill: #c99065; }
+      fill: #79b291; }
     .face-lockup [class^="icon-"].icon-pencil {
       -webkit-box-ordinal-group: 1;
       -moz-box-ordinal-group: 1;
@@ -805,7 +806,7 @@ footer {
       display: inline-block;
       height: 14px;
       width: 14px;
-      background-color: #c99065;
+      background-color: #79b291;
       margin-right: 8px;
       border-radius: 50%; }
       .skill-lockup .skill-icons span:after {
@@ -1065,7 +1066,7 @@ footer {
     opacity: 0.5; }
     .clients-logos .client-logo.active-client {
       opacity: 1;
-      border-bottom: 4px solid #c99065; }
+      border-bottom: 4px solid #79b291; }
 
 .client-quote-mark {
   position: absolute;
@@ -1076,7 +1077,7 @@ footer {
   z-index: -1;
   opacity: 0.3; }
   .client-quote-mark path {
-    fill: #c99065; }
+    fill: #79b291; }
 
 .client-controls {
   position: absolute;
@@ -1091,7 +1092,7 @@ footer {
     margin-top: -20px;
     cursor: pointer; }
     .client-controls > div path {
-      fill: #c99065; }
+      fill: #79b291; }
   .client-controls .client-control-next {
     position: absolute;
     top: 50%;
