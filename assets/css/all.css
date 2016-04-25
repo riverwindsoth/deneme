@@ -659,7 +659,9 @@ header {
     header h1 {
       padding-top: 0px; } }
 footer {
-  background-image: url(../img/logo.png); }
+  background-image: url(../img/logo.png);
+  background-color: silver;
+}
   footer .lockup {
     padding: 50px 30px; }
     footer .lockup:after {
@@ -680,10 +682,7 @@ footer {
         margin-right: 30px; }
         footer .lockup .content-wrap a:hover {
           color: rgba(0, 0, 0, 0.7); }
-footer .hr {
-    border: 10px;
-    border-color: black;
-}
+
 
 .face-lockup {
   max-width: 780px;
