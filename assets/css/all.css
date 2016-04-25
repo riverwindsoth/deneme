@@ -659,7 +659,7 @@ header {
     header h1 {
       padding-top: 0px; } }
 footer {
-  background-image: url(../img/logo.svg), url(../img/hero-bg.jpg); }
+  background-image: url(../img/logo.png); }
   footer .lockup {
     padding: 50px 30px; }
     footer .lockup:after {
