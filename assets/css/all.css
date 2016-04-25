@@ -540,12 +540,12 @@ hr {
 /* Links
  * ------------------------------------	 */
 a {
-  color: #c99065;
+  color: #79b291;
   text-decoration: none;
   outline: 0; }
 
 a:hover, a:focus {
-  color: #e3c6b1; }
+  color: rgb(140, 206, 168); }
 
 /* Selection colors (easy to forget)
  * ------------------------------------	 */
@@ -596,7 +596,7 @@ section:nth-child(odd) {
   background: #e5eaee;
   padding-bottom: 100px; }
   section:nth-child(odd) h3 {
-    color: #d7ae5c; }
+    color: #79b291; }
 
 h3, header nav a, header .kicker, footer .lockup .content-wrap a {
   font-size: 14px;
@@ -1179,11 +1179,11 @@ footer {
   flex-wrap: wrap; }
   .social-links a {
     display: block;
-    border: 2px solid #c99065;
+    border: 2px solid #79b291;
     height: 50px;
     width: 50px;
     line-height: 50px;
-    color: #c99065;
+    color: #79b291;
     border-radius: 50%;
     font-size: 28px;
     margin: 20px;
@@ -1196,7 +1196,7 @@ footer {
       right: 0px;
       bottom: 0px;
       left: 0px;
-      border: 2px solid #c99065;
+      border: 2px solid #79b291;
       border-radius: 50%;
       margin: -2px;
       opacity: 1;
@@ -1214,7 +1214,7 @@ footer {
 .bar {
   width: 250px;
   height: 0px;
-  border-top: 4px solid #c99065;
+  border-top: 4px solid #79b291;
   margin: 0px auto 50px; }
 
 .biglink {
@@ -1230,7 +1230,7 @@ form {
   margin: 0 auto 100px;
   padding: 0 20px; }
   form input, form textarea {
-    border: 3px solid #c99065;
+    border: 3px solid #79b291;
     width: 100%;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -1242,20 +1242,20 @@ form {
     font-size: 16px; }
     form input:focus, form textarea:focus {
       outline: none;
-      border-color: #e1c285; }
+      border-color: #8fd4ac; }
   form textarea {
     height: 10em;
     resize: none; }
   form .submit-wrap {
     text-align: right; }
   form [type="submit"] {
-    background: #c99065;
+    background: #79b291;
     color: white;
     font-size: 18px;
     text-transform: uppercase;
     width: 33%; }
     form [type="submit"]:hover {
-      background: #e1c285; }
+      background: #8bcea7; }
   form .contact-info-group label {
     width: 50%;
     float: left;
